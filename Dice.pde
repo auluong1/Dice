@@ -17,7 +17,7 @@ void draw() {
   fill(255);
   text("The total of all the dice is: " + sum, 200, 350);
 }
-void mousePressed {
+void mousePressed() {
 	redraw();
 }
 class Die {
